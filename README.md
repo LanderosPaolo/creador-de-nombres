@@ -2,7 +2,7 @@
 ¡Bienvenido a mi primer proyecto en Python! Estoy emocionado de compartir contigo esta pequeña creación que refleja mi proceso de aprendizaje en Python. Aunque pueda ser muy básico, este proyecto es un paso importante en mi camino como programador        principiante.
 
 ## Descripción del Proyecto
-Este programa sencillo, titulado "Descubre el Sabor de la Cerveza", tiene como objetivo brindarte una experiencia única al permitirte crear un nombre para tu cerveza ideal. La idea detrás de este proyecto es explorar y comprender cómo Python puede ser utilizado para interactuar con el usuario y combinar respuestas de diferentes preguntas en una sola cadena.
+Este programa sencillo, titulado "Descubre el Nombre de la Cerveza", tiene como objetivo brindarte una experiencia única al permitirte crear un nombre para tu cerveza ideal. La idea detrás de este proyecto es explorar y comprender cómo Python puede ser utilizado para interactuar con el usuario y combinar respuestas de diferentes preguntas en una sola cadena.
 
 ## ¿Cómo Funciona?
 El programa hace dos simples preguntas al usuario, y las respuestas a estas preguntas se combinan para formar el nombre de la cerveza. Las dos preguntas son:
